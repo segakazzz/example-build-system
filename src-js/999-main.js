@@ -18,4 +18,4 @@ window.MYAPP = window.MYAPP || {}
 
   // run globalInit when the DOM is ready using jQuery
   $(globalInit)
-})()
+})(
